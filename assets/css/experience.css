@@ -21,3 +21,6 @@
     background-image: url(../img/icons/calendar.svg);
     margin-right: .5rem;
 }
+.experience p {
+    line-height: 1.8;
+}
